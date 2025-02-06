@@ -26,6 +26,7 @@ public class conditionalEx {
 			System.out.println("홀수입니다");
 		}
 		
+		int a;
 		
 		
 		
